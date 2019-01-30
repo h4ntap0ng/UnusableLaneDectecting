@@ -10,7 +10,7 @@ NUMPY
 
 work with mp4 480 - 1080 p 
 
-rename file to ->> "test2.mp"
+rename file to ->> "test2.mp4"
 make your in the same folder :
 
 only working with python 2.x.x
