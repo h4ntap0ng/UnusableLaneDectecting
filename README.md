@@ -1,4 +1,4 @@
- Lanes detecting using computing vision  
+ Lanes detecting using computer vision  
 ---
 ![](result.png) 
 ```
